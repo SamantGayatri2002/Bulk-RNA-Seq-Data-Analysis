@@ -1,0 +1,22 @@
+Processing LNCAP_Hypoxia_S2 at Sun Aug 17 00:09:08 IST 2025
+Finished LNCAP_Hypoxia_S2 in 3168 seconds at Sun Aug 17 01:01:56 IST 2025
+--------------------------------------
+Processing LNCAP_Normoxia_S1 at Sun Aug 17 01:01:56 IST 2025
+Finished LNCAP_Normoxia_S1 in 3409 seconds at Sun Aug 17 01:58:45 IST 2025
+--------------------------------------
+Processing LNCAP_Normoxia_S2 at Sun Aug 17 01:58:45 IST 2025
+Finished LNCAP_Normoxia_S2 in 23951 seconds at Sun Aug 17 08:37:56 IST 2025
+--------------------------------------
+Processing PC3_Hypoxia_S1 at Sun Aug 17 08:37:56 IST 2025
+Finished PC3_Hypoxia_S1 in 3720 seconds at Sun Aug 17 09:39:56 IST 2025
+--------------------------------------
+Processing PC3_Hypoxia_S2 at Sun Aug 17 09:39:56 IST 2025
+Finished PC3_Hypoxia_S2 in 1457 seconds at Sun Aug 17 10:04:13 IST 2025
+--------------------------------------
+Processing PC3_Normoxia_S1 at Sun Aug 17 10:04:13 IST 2025
+Finished PC3_Normoxia_S1 in 1725 seconds at Sun Aug 17 10:32:58 IST 2025
+--------------------------------------
+Processing PC3_Normoxia_S2 at Sun Aug 17 10:32:58 IST 2025
+Finished PC3_Normoxia_S2 in 5084 seconds at Sun Aug 17 11:57:42 IST 2025
+--------------------------------------
+All files processed successfully at Sun Aug 17 11:57:42 IST 2025
