@@ -32,7 +32,7 @@ Dataset Source: GSE106305 (NCBI GEO)
 
 **For example:**<br>
 LNCaP Normoxia Replicate 1 (GSM3145509) is split across 4 SRR files:
-SRR7179504, SRR7179505, SRR7179506, SRR7179507.
+**SRR7179504, SRR7179505, SRR7179506, SRR7179507.**
 
 This is common in sequencing experiments, where one sample is sequenced in multiple lanes/runs.
 
@@ -145,13 +145,13 @@ SRR7179536, SRR7179537, SRR7179540, SRR7179541
 
 ## 🗂️ Recommended Folder Layout
 ```
-Bulk_RNA_Seq_Analysis/<br>
-├─ fastq/ # FASTQs (raw + merged/renamed)<br>
-├─ fastqc_results/ # FastQC HTMLs<br>
-├─ multiqc_report/ # MultiQC summary<br>
-├─ alignedreads/ # BAM + BAI<br>
-├─ quants/ # featureCounts outputs<br>
-├─ rnaseq_qc_results/ # Qualimap outputs<br>
+Bulk_RNA_Seq_Analysis/
+├─ fastq/ # FASTQs (raw + merged/renamed)
+├─ fastqc_results/ # FastQC HTMLs
+├─ multiqc_report/ # MultiQC summary
+├─ alignedreads/ # BAM + BAI
+├─ quants/ # featureCounts outputs
+├─ rnaseq_qc_results/ # Qualimap outputs
 ```
 
 ## 🧭 End-to-End Workflow — Commands + Explanations
